@@ -7,6 +7,6 @@
 ![](Gameplay%20Images/about.png)
 ![](Gameplay%20Images/controls.png)
 ![](Gameplay%20Images/gameplay1.png)
-![](Gameplay%20Images/gameplay2.png)
+![werrr](Gameplay%20Images/gameplay2.png)
 ![](Gameplay%20Images/lose_or_win_screen.png)
 ![](Gameplay%20Images/quit.png)
